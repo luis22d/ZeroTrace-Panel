@@ -11,7 +11,7 @@
 
 
 
-About The ZeroTrace Stealer
+## About The ZeroTrace Stealer
 This Stealer Has Been Made In C#, And It's Fast & Light Stub [ 500-600 KB ], You Can Use It For Testing & Learning Purposes.
 
 Key Features:
