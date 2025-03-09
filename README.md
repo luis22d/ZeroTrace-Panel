@@ -75,30 +75,32 @@ Custom notification sounds
 
 3/9/2025
 
-What's New
-Our latest update introduces significant improvements:
-✅ Bug Fixes
+## Changelog
 
-Fixed array bounds errors
-Resolved critical bugs in core functionality
-Chrome cookies compatibility with latest version
+- **Bug Fixes & Improvements**
+  - Out of array fixed
+  - Some bugs cleared
+  - Chrome cookies fixed (works on the latest version)
+  - Memory leak fix
+  - CPU leak fix
+  - Stability control
+  - Faster UI reaction
+  - Memory cleanup for smoother UI
 
-✅ Enhanced Wallet Support
+- **Features**
+  - Automatic wallet checker (MetaMask, Exodus)
+  - Automatic password checker (search manually for websites in logs)
+  - Now extracts more wallets from extensions
+  - Incoming connection notification sound
+  - New notification system
 
-Automatic wallet detection for MetaMask and Exodus
-Improved extension-based wallet discovery
-Comprehensive wallet logs with analytical tools
+- **Log Checking**
+  - Check total MetaMask wallet logs
+  - Check total Exodus wallet logs
+  - Check total Chrome passwords
+  - Look for specific websites in the password list
 
-✅ Performance Enhancements
-
-Memory leak protection system
-CPU usage optimization
-UI responsiveness improvements
-Stability control mechanisms
-
-✅ User Experience
-
-Faster UI response times
-Notification sound alerts for incoming connections
-Intuitive password management interface
+- **Other Improvements**
+  - Lighter stub (213KB)
+  - Multi-language support: English, Spanish, Italian, French, Chinese, German
 
