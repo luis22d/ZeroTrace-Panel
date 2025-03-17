@@ -99,6 +99,13 @@ Custom notification sounds
   - Check total Exodus wallet logs
   - Check total Chrome passwords
   - Look for specific websites in the password list
+ 
+
+
+## DONATE
+
+TRC20 - USDT20  |  TRX
+TUuLGi3DaQQ3qQK1BtHFqJToac7bShKp5v
 
 - **Other Improvements**
   - Lighter stub (213KB)
