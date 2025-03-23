@@ -2,7 +2,8 @@
  ZeroTrace Stealer Is Designed To Steal Credentials And Send Back To Panel And Easily See Results
 
 
-![2](https://github.com/user-attachments/assets/f084e9b2-e211-4912-ab9c-ff9b8460a405)
+![Untitled](https://github.com/user-attachments/assets/506d89f3-d0d5-4653-b0e3-ab97e00aeb03)
+
 
 
 ![stalk1](https://github.com/user-attachments/assets/05d336b1-8630-4282-8495-21bc8a1728d2)
@@ -103,7 +104,49 @@ Custom notification sounds
 - **Other Improvements**
   - Lighter stub (213KB)
   - Multi-language support: English, Spanish, Italian, French, Chinese, German
+    
+
  
+3/22/2025
+
+## Changelog
+
+- **Implementation Notes**
+  - The tool handles different browser profile locations and versions
+  - Temporary files are properly cleaned up after processing
+  - Data is properly sanitized before writing to output files
+  - The tool provides detailed error messages when extraction fails
+  - Autofill information  Small  Fix
+  - Browsing history Small  Fix
+  - Bookmarks Small Fix
+  - Stored passwords Fix
+  - Cookies Fix [ Opera, Opera Gaming, Chrome, Brave, Yandex ]
+
+- **Retry Logic**
+  - Increased retry counts for more reliability
+  - Added delays between retries to allow browser initialization
+  - Improved connection timeout handling
+
+- **Features**
+  - Real-time grid updates
+  - Automatic file saving
+  - Separate display for regular and atomic wallet data
+  - Persistent connection monitoring
+  - Auto-retry on connection failures
+  - File change detection capabilities
+  - Taking Browser Wallets With [ MANIFEST ] Safe Memory, even if browser runs.
+
+- **Error Handling**
+  - Robust error handling for file operations
+  - Connection retry logic
+  - Detailed logging of errors
+  - Proper cleanup on failure
+
+- **Future Improvements**
+- Support for additional browsers
+- Improved cross-platform compatibility
+- Optimized performance for large browser profiles
+- More robust handling of browser updates and format changes
 
 ## DONATE
 
