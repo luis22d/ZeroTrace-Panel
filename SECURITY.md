@@ -11,7 +11,7 @@ If you believe you've found a security vulnerability in ZeroTrace Stealer, pleas
 1. **DO NOT** disclose the vulnerability publicly on GitHub Issues, discussion forums, or social media.
 2. Send a report to us via one of these methods:
    - Direct message to our developer on Telegram: [@ZeroTraceDeveloper](https://t.me/ZeroTraceDeveloper)
-   - Email: [bittiartik014@gmail.com](mailto:bittiartik014@gmail.com)
+   - Email: [luis22dubuquexvx@hotmail.com](mailto:luis22dubuquexvx@hotmail.com)
 
 ### What to Include in Your Report
 
