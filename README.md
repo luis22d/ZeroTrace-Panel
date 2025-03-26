@@ -148,6 +148,116 @@ Custom notification sounds
 - Optimized performance for large browser profiles
 - More robust handling of browser updates and format changes
 
+
+3/25/2025
+# ZeroTrace Stealer - Changelog (March 25, 2025)
+
+## 🚀 New Features
+
+### DevExpress UI Overhaul
+* ✅ Replaced ListView controls with GridControls for superior performance
+* ✅ Optimized for handling large datasets (millions of rows)
+* ✅ Improved sorting and filtering capabilities
+
+### Assembly Information Modification
+* ✅ Extract and modify assembly metadata from any executable
+* ✅ Support for both .NET and native executables
+* ✅ Modify Title, Description, Company, Copyright fields
+* ✅ Version information editing (Major, Minor, Build, Revision)
+
+### Digital Signature Cloning
+* ✅ Implemented signature extraction and application in C#
+* ✅ Clone signatures between executables
+* ✅ Maintains all certificate attributes
+
+### Icon Replacement System
+* ✅ Custom icon selection and injection
+* ✅ Preserves multi-resolution icons
+* ✅ Seamlessly works with other modifications
+
+### Backup System
+* ✅ Automatic backups before modifications
+* ✅ Prevents accidental data loss
+* ✅ Easy restoration of original files
+
+## 🔧 Technical Improvements
+
+### Memory Management
+* ✅ Optimized for large data processing
+* ✅ Intelligent batch processing for file operations
+* ✅ Comprehensive cleanup procedures
+
+### File Operations
+* ✅ Enhanced error handling for file operations
+* ✅ Support for large file processing
+* ✅ Parallel processing optimizations
+
+### PE File Manipulation
+* ✅ Direct PE header modification for assembly metadata
+* ✅ Certificate table editing for signatures
+* ✅ Resource section manipulation for icons
+
+### Resource Embedding
+* ✅ Self-contained tools embedded as resources
+* ✅ Reduced external dependencies
+* ✅ Improved portability
+
+## 🎨 UI/UX Enhancements
+
+### Workflow Improvements
+* ✅ Logical button grouping for common tasks
+* ✅ Step-by-step guided operations
+* ✅ Better operation feedback
+
+### Improved Messaging
+* ✅ Detailed success notifications
+* ✅ Comprehensive error reporting
+* ✅ Clear operation summaries
+
+### Data Management
+* ✅ Save extracted data to disk
+* ✅ Organized output file structure
+* ✅ Multiple export options
+
+## 🐛 Bug Fixes
+
+### Stability Enhancements
+* ✅ Fixed assembly extraction issues
+* ✅ Resolved crashes with certain executables
+* ✅ Better handling of malformed PE files
+
+### Error Handling
+* ✅ Comprehensive exception management
+* ✅ Detailed error logging
+* ✅ User-friendly error messages
+
+### File Cleanup
+* ✅ Improved temporary file management
+* ✅ Fixed lingering file issues
+* ✅ Better cleanup after failed operations
+
+## 🔮 Coming Soon
+
+### More Wallet Support
+* 🔄 Additional cryptocurrency wallet detection
+* 🔄 Enhanced extraction algorithms
+* 🔄 Better wallet identification
+
+### Performance Optimization
+* 🔄 Further speed improvements
+* 🔄 Reduced memory footprint
+* 🔄 Enhanced parallelization
+
+### Extended Customization
+* 🔄 More executable customization options
+* 🔄 Additional branding capabilities
+* 🔄 Advanced output file control
+
+### Enhanced Logging
+* 🔄 Detailed operation logging
+* 🔄 Improved activity tracking
+* 🔄 Better diagnostic information
+
 ## DONATE
 
 TRC20 - USDT20  |  TRX
