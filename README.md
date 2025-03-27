@@ -2,7 +2,7 @@
  ZeroTrace Stealer Is Designed To Steal Credentials And Send Back To Panel And Easily See Results
 
 
-![image](https://github.com/user-attachments/assets/c96178d4-b033-4097-82ab-7a2586732a12)
+![photo_2025-03-26_17-46-15](https://github.com/user-attachments/assets/51d04b44-d865-4098-8eb2-1524424e5c0a)
 
 
 
